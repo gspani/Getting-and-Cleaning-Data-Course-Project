@@ -1,11 +1,11 @@
 # Getting-and-Cleaning-Data-Course-Project
 
-Overview:
+**Overview:**
 
 This project is to demonstrate the ability to collect, work with, and clean a data set, that can be used for later analysis.
 
 
-Summary:
+**Summary:**
 
 The data for the project is available at: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
@@ -20,8 +20,10 @@ The R script is called run_analysis.R and it does the following:
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 
-Additional Information:
+**Additional Information:**
 
 The R script has comments at appropriate places explaining what the code does.
+
 You can find additional information about the variables, data and transformations in the CodeBook.MD file.
+
 The final output, a tidy dataset, is in tidydata.txt. 
